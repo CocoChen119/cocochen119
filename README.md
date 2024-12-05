@@ -3,7 +3,7 @@
 
 - 🔭I am deeply passionate about theoretical computer science, **particularly in areas like NP-hard problems and graph theory**
 
--✨ On the side, I am diving into some mysterious algorithmic research **—stay tuned!**
+- ✨ On the side, I am diving into some mysterious algorithmic research **—stay tuned!**
 
 - 👨‍💻 Currently, I serve as the CTO of [LUDev](https://ludev.nl/)
 
