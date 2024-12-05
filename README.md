@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Qianpu :)</h1>
-<h3 align="center">a computer science graduate student/full-stack programmer based in the Netherlands,</h3>
+<h3 align="center">A full-stack programmer based in the Netherlands</h3>
 
 - 🔭I am deeply passionate about theoretical computer science, **particularly in areas like NP-hard problems and graph theory**
 
-- 👨‍💻 Currently, I serve as the CTO of [LUDev](ludev.nl)
+- On the side, I am diving into some mysterious algorithmic research **—stay tuned!**
+
+- 👨‍💻 Currently, I serve as the CTO of [LUDev](https://ludev.nl/)
 
 - 📝 I am also a teaching assistant for **Deep Learning and Software Engineering courses**
 
