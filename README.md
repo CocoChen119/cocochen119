@@ -9,7 +9,7 @@
 
 - 👨‍💻 Previously, I served as the **CTO of [LUDev](https://ludev.nl/)**
 
-- Trying to make algorithms faster / the world better / Turing machines happier / NP = P
+- ❤️ Trying to make algorithms faster / the world better / Turing machines happier / NP = P
 
 - 📫 How to reach me: [qianpuchen@gmail.com](mailto:qianpuchen@gmail.com)
 
