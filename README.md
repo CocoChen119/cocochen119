@@ -7,7 +7,9 @@
 
 - 🎓 Currently, I am a **PhD candidate in AI**
 
-- 👨‍💻 Previously, I served as the **CTO of [LUDev](https://ludev.nl/)** — trying to make algorithms faster / make the world better / make Turing machines do something unexpected / make NP = P
+- 👨‍💻 Previously, I served as the **CTO of [LUDev](https://ludev.nl/)**
+
+- Trying to make algorithms faster / make the world better / make Turing machines do something unexpected / make NP = P
 
 - 📫 How to reach me: [qianpuchen@gmail.com](mailto:qianpuchen@gmail.com)
 
