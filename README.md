@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qianpu :)</h1>
-<h3 align="center">A full-stack developer & AI researcher based in the Netherlands</h3>
-
+<h3 align="center">AI researcher && full-stack developerbased in the Netherlands</h3>
+🌐 [Personal Website](https://qianpuchen.com)  
+🏛️ [Leiden University Profile](https://www.universiteitleiden.nl/en/staffmembers/qianpu-chen#tab-1)  
 - 🔭 I am deeply passionate about theoretical computer science, **particularly in areas like game theory and graph theory**
 
 - ✨ On the side, I am diving into some mysterious algorithmic research **—stay tuned!**
