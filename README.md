@@ -5,7 +5,7 @@
 
 - ✨ On the side, I am diving into some mysterious algorithmic research **—stay tuned!**
 
-- 🎓 Currently, I am a **PhD candidate in AI**
+- 🎓 Currently, I am a **PhD candidate in AI at [LIACS](https://liacs.leidenuniv.nl/)**
 
 - 👨‍💻 Previously, I served as the **CTO of [LUDev](https://ludev.nl/)**
 
