@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://qianpuchen.com/">Qianpu</a> :)</h1>
-<h3 align="center">AI researcher && full-stack developerbased in the Netherlands</h3>
+<h3 align="center">AI researcher && full-stack developer based in the Netherlands</h3>
 
   
 - 🔭 I am deeply passionate about theoretical computer science, **particularly in areas like game theory and graph theory**
