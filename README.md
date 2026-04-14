@@ -8,8 +8,6 @@
 
 - 🎓 Currently, I am a **PhD candidate in AI at [LIACS](https://liacs.leidenuniv.nl/)**
 
-- 👨‍💻 Previously, I served as the **CTO of [LUDev](https://ludev.nl/)**
-
 - ❤️ Trying to make algorithms faster / The world better / Turing machines happier / NP = P
 
 - 📫 How to reach me: [qianpuchen@gmail.com](mailto:qianpuchen@gmail.com)
