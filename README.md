@@ -2,7 +2,7 @@
 <h3 align="center">AI researcher && full-stack developer based in the Netherlands</h3>
 
   
-- 🔭 I am deeply passionate about theoretical computer science
+- 🔭 I am deeply passionate about algorithms
 
 - ✨ On the side, I am diving into some mysterious algorithmic research **—stay tuned!**
 
