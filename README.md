@@ -4,7 +4,7 @@
   
 - 🔭 I am deeply passionate about algorithms
 
-- ✨ On the side, I am diving into some mysterious algorithmic research **—stay tuned!**
+- ✨ On the side, I am diving into some mysterious research **—stay tuned!**
 
 - 🎓 Currently, I am a **PhD candidate in AI at [LIACS](https://liacs.leidenuniv.nl/)**
 
