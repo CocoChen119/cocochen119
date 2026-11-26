@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://qianpuchen.com/">Qianpu</a> ♠</h1>
 <h3 align="center">AI researcher && full-stack developer based in the Netherlands</h3
                                                                                    
-🔭 I am deeply passionate about everything built from code, which, given enough time, is everything
+🔭 I am deeply passionate about all the possibilities code can build
 
 ✨ On the side, I am diving into some mysterious algorithm research **—stay tuned!**
 
