@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm <a href="https://qianpuchen.com/">Qianpu</a> :)</h1>
-<h3 align="center">AI researcher && full-stack developer based in the Netherlands</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://qianpuchen.com/">Qianpu</a> ♠</h1>
+<h3 align="center">AI researcher && full-stack developer based in the Netherlands</h3
+                                                                                   
+🔭 I am deeply passionate about everything built from code, which, given enough time, is everything
 
-  
-- 🔭 I am deeply passionate about algorithms
+✨ On the side, I am diving into some mysterious algorithm research **—stay tuned!**
 
-- ✨ On the side, I am diving into some mysterious research **—stay tuned!**
+🎓 Currently, I am a **PhD candidate in AI at [LIACS](https://liacs.leidenuniv.nl/
 
-- 🎓 Currently, I am a **PhD candidate in AI at [LIACS](https://liacs.leidenuniv.nl/)**
+❤️ Trying to make Algorithms faster / The world better / Turing machines happier / NP = P
 
-- ❤️ Trying to make algorithms faster / The world better / Turing machines happier / NP = P
-
-- 📫 How to reach me: [qianpuchen@gmail.com](mailto:qianpuchen@gmail.com)
+📫 How to reach me: [qianpuchen@gmail.com](mailto:qianpuchen@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
