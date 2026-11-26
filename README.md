@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://qianpuchen.com/">Qianpu</a> ♠</h1>
-<h3 align="center">AI researcher && full-stack developer based in the Netherlands</h3
+<p align="center">AI researcher && full-stack developer based in the Netherlands</p>
                                                                                    
 🔭 I am deeply passionate about all the possibilities code can build
 
