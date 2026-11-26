@@ -5,7 +5,7 @@
 
 ✨ On the side, I am diving into some mysterious algorithm research **—stay tuned!**
 
-🎓 Currently, I am a **PhD candidate in AI at [LIACS](https://liacs.leidenuniv.nl/
+🎓 Currently, I am a PhD candidate in AI at [LIACS](https://liacs.leidenuniv.nl/)
 
 ❤️ Trying to make Algorithms faster / The world better / Turing machines happier / NP = P
 
